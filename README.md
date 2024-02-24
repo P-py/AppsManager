@@ -1,7 +1,8 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
-<h3 align="center">AppsManager</h3>
+<h3 align="center">AppsManager - DISCONTINUED - This repository will not receive new updates.
+</h3>
 
   <p align="center">
     A manager e shortener of the process of opening apps and realizing repetitive tasks.
